@@ -8,14 +8,14 @@ on:
   #   branches:
   #     - main
   #   paths:
-  #     - .github/workflows/instructlab_baseimages_build_push.yaml
-  #     - training/nvidia
+  #     - .github/workflows/instructlab.yaml
+  #     - training/instructlab/Makefile
   # push:
   #   branches:
   #     - main
   #   paths:
-  #     - .github/workflows/instructlab_baseimages_build_push.yaml
-  #     - training/nvidia
+  #     - .github/workflows/instructlab.yaml
+  #     - training/instructlab/Makefile
   
   workflow_dispatch:
 
